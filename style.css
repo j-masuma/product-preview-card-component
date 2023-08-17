@@ -27,6 +27,7 @@ section{
     border-radius: 20px;
     width: 600px;
 }
+
 img{
     flex: 1 0 50%;
     object-fit: cover;
